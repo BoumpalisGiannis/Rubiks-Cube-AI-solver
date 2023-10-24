@@ -1,5 +1,5 @@
-from mycube import RubiksCube,State
-import solver
+from mycube.py import RubiksCube,State
+import solver.py
 
 """ 
 Main programm , select the number of moves to randomize the cube and specify K and M in astar if necessary
